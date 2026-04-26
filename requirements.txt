@@ -3,3 +3,4 @@ fpdf2
 pytesseract
 pdf2image
 feedparser
+duckduckgo-search
