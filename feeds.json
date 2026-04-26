@@ -1,0 +1,18 @@
+{
+  "feeds": [
+    {
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "name": "CNN Top Stories",
+      "source": "CNN",
+      "news_type": "General",
+      "area": "Global"
+    },
+    {
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "name": "BBC World News",
+      "source": "BBC",
+      "news_type": "World",
+      "area": "Global"
+    }
+  ]
+}
