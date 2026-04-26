@@ -13,6 +13,34 @@
       "source": "BBC",
       "news_type": "World",
       "area": "Global"
+    },
+    {
+      "url": "https://moxie.foxnews.com/google-publisher/politics.xml",
+      "name": "Fox News Politics",
+      "source": "Fox News",
+      "news_type": "Politics",
+      "area": "US"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "name": "NYT Technology",
+      "source": "New York Times",
+      "news_type": "Technology",
+      "area": "Global"
+    },
+    {
+      "url": "https://www.theguardian.com/uk/environment/rss",
+      "name": "The Guardian Environment",
+      "source": "The Guardian",
+      "news_type": "Environment",
+      "area": "UK/Global"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "name": "CNBC Finance",
+      "source": "CNBC",
+      "news_type": "Finance",
+      "area": "Global"
     }
   ]
 }
